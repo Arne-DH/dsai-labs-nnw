@@ -1,6 +1,6 @@
-# Data Science & AI - Labs
+# Data Science - Labs
 
-In this repository you will find the lab assignments for the Data Science & AI course. 
+In this repository you will find the lab assignments for the Data Science course. 
 The idea is that you make a copy of this repository (using the Github Classroom link you get
 during the first classes) and keep your own solutions in that repository.
 
