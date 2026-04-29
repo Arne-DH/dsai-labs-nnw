@@ -1,0 +1,10 @@
+The level of measurement of a variable refers to the nature of the data and the types of operations that can be performed on it. There are four main levels of measurement:
+
+- Nominal: This is the most basic level of measurement. Nominal variables are categorical and have no inherent order or ranking. Examples include gender, race, and sport.
+
+- Ordinal: Ordinal variables are categorical variables with a meaningful order or ranking, but the intervals between the categories are not necessarily equal. Examples include education level (e.g., high school, bachelor's, master's, PhD) and satisfaction rating (e.g., poor, fair, good, excellent).
+
+- Interval: Interval variables are numerical variables with equal intervals between values, but they do not have a true zero point. Examples include temperature in Celsius or Fahrenheit and IQ scores.
+
+- Ratio: Ratio variables are numerical variables with equal intervals between values and a true zero point, allowing for meaningful comparisons of ratios. Examples include height, weight, age, and income.
+
